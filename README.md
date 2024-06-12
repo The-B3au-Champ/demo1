@@ -1,2 +1,4 @@
-# demo01
-test de GitHub
+🦭 demo01
+===========
+
+Présentation des fonctionnalités de Git et github.
